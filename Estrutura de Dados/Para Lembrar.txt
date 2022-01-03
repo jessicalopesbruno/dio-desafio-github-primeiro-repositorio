@@ -1,0 +1,8 @@
+registros são diferentes de arrays
+registros armazenam dados de tipos diferentes
+Listas - armazenam dados de um determinado tipo em uma ordem especifica, elas podem ser ligadas ou duplamente ligadas
+Pilhas - Coleção de elementos que permite acesso a apenas um item de dados armazenado, podem ser LIFO(Last In First Out) ou FIFO(First In First Out)
+Filas - elemento a ser removido é o que está a mais tempo armazenado
+Árvore - Armazena seus elementos de forma hierárquica, elementos no topo (raíz) e elementos subordinados (nós/folhas)
+Tabelas Hash - tabela de espalhamento ou dispersão, é uma estrutura de dados especial (HASHING: Generalização da ideia do array, os elementos ficam armazenados de forma não ordenada)
+Grafos - Estruturas que permitem programar a relação entre objetos(Objetos=Nós e Relacionamentos=Arestas)
