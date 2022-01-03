@@ -1,0 +1,10 @@
+git init - inicia um repositório na pasta
+git status - verificar o status do repositório
+git add - adicionar o repositório ao git
+mkdir - criar uma nova pasta no repositório
+ls - listar os itens do repositório
+ctrl + l - limpar o terminal
+git commit -m - inserir um commit com uma mensagem
+git push - empurrar o repositório do ambiente local para o git (ambiente global)
+git clone - puxar o repositório para o ambiente local
+
